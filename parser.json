@@ -1,9 +1,9 @@
 {
+  "generate_from_json": null,
   "generate": null,
   "lang": "clojure",
   "url": "https://github.com/sogaiu/tree-sitter-clojure",
   "semver": false,
   "parser_version": "e43eff80d17cf34852dcd92ca5e6986d23a7040f",
-  "location": null,
-  "generate_from_json": null
+  "location": null
 }
